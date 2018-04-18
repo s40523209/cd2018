@@ -1,6 +1,6 @@
 一 Vrep模擬鋼球運動系統
 
-&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/WtbVwjA8I\_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WtbVwjA8I_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 二
 
