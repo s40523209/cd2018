@@ -8,6 +8,6 @@
 
 [40523209 王博聖](https://github.com/s40523209)
 
-[第一組倉儲](https://github.com/s40523209/cd2018\)  
+[第一組倉儲](https://github.com/s40523209/cd2018)  
 
 
