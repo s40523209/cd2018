@@ -14,5 +14,5 @@
   * [4](gang-qiu-yun-dong-xi-tong/4.md)
   * [5](gang-qiu-yun-dong-xi-tong/5.md)
 * [期中報告](qi-zhong-bao-gao.md)
-  * 2
+  * [2](qi-zhong-bao-gao/2.md)
 
