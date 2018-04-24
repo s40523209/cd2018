@@ -7,15 +7,12 @@
 * [W5](w5.md)
 * [W6\(放假\)](w6.md)
 * [W7](w7.md)
+* [W8](w8.md)
 * [鋼球運動系統](gang-qiu-yun-dong-xi-tong.md)
   * [1](gang-qiu-yun-dong-xi-tong/1.md)
   * [2](gang-qiu-yun-dong-xi-tong/2.md)
   * [3](gang-qiu-yun-dong-xi-tong/3.md)
   * [4](gang-qiu-yun-dong-xi-tong/4.md)
   * [5](gang-qiu-yun-dong-xi-tong/5.md)
-* [期中報告1](qi-zhong-bao-gao-1.md)
-  * [2](qi-zhong-bao-gao-1/2.md)
-  * [3](qi-zhong-bao-gao-1/3.md)
-  * [4](qi-zhong-bao-gao-1/4.md)
-  * [5](qi-zhong-bao-gao-1/5.md)
+* W8
 
