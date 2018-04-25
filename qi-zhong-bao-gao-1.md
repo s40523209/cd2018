@@ -4,3 +4,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WtbVwjA8I_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+影片網址:https://www.youtube.com/watch?v=WtbVwjA8I_I
+
+檔案連結:https://github.com/s40523209/cd2018/tree/gh-pages/ball
