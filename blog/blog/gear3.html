@@ -191,6 +191,7 @@ brython({debug:1, pythonpath:['./../data/py']});
 
 <p><input id="na" value="50"></input><br />
 <input id="nb" value="25"></input><br /></p>
+<button id="button">Set Number of Gears</button></p>
 <script type="text/python">
 # 將 導入的 document 設為 doc 主要原因在於與舊程式碼相容
 from browser import document as doc
@@ -319,7 +320,7 @@ def s3(e):
         cgo.render(gear1, {'x':cx, 'y':cy, 'scl':reduced_ratio, 'degs':180+(360/n2/2)})
     set_interval(draw, 2)
 
-    # 只使用畫布高度的 80%
+    # 只使用畫布高度的 40%
     canvas_size = canvas.height*0.4
     r17 = canvas_size*n2/(n+n2)
     r11 = r17*n2/n
@@ -397,6 +398,7 @@ brython({debug:1, pythonpath:['./../data/py']});
 
 <p><input id="na" value="50"></input><br />
 <input id="nb" value="25"></input><br /></p>
+<button id="button_d">Set Number of Gears</button></p>
 <script type="text/python">
 # 將 導入的 document 設為 doc 主要原因在於與舊程式碼相容
 from browser import document as doc
@@ -559,7 +561,7 @@ def setgearnumber(e):
     ctx.restore()
 
 setgearnumber(True)
-doc['button'].bind('click',setgearnumber)
+doc['button_d'].bind('click',setgearnumber)
 </script>
 
 </pre>
